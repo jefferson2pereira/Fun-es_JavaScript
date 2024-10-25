@@ -1,0 +1,1 @@
+Funções escritas em Javascript
